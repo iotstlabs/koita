@@ -2,6 +2,13 @@
 Silicon Labs CP210x용 윈도우즈 드라이버 파일 위치
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
-
 아두이노 IDE 환경설정 --> 추가적인 보드 매니저 URLs에 넣을 주소 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+부품 구매
+네이버쇼핑에서 해당하는 부품명으로 검색해서 구매
+혹은 메카솔루션(http://mechasolution.com/) 방문
+
+실습키트에서 제공하는 매뉴얼
+budopar@지메일로 요청시 전송 
+
